@@ -283,7 +283,7 @@ margin: 50px;
 }
 } */
 
-@media (min-width: 480px) and (max-width: 784px) {
+@media (min-width: 430px) and (max-width: 784px) {
   body {
       margin: 0;
       padding: 0 15px; /* Add some side padding to the body */
