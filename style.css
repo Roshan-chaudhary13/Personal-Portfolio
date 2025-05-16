@@ -346,7 +346,7 @@ margin: 50px;
       /* margin-right: 50px; Removed */
       /* margin-left: 1px; Removed */
       /* width: 300px; Removed fixed width */
-      width: 100%;
+      
       display: flex;
       flex-direction: row;
       flex-wrap: wrap;
